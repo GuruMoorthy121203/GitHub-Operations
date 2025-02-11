@@ -1,3 +1,5 @@
 hii this is file 1
 changes made
-changes made in new-feature
+
+modify in main
+resolved
